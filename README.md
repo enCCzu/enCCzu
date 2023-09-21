@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enCCzu
 - 👀 I’m interested in artificial intelligence and machine learning. 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me: enzu412@gmail.com.
 
 <!---
