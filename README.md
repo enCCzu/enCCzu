@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enCCzu
 - 👀 I’m interested in artificial intelligence and machine learning. 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning how to build and train models!
 - 📫 How to reach me: enzu412@gmail.com or erincc.zhou@mail.utoronto.ca.
 
 <!---
